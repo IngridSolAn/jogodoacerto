@@ -1,3 +1,3 @@
-link de acesso
+link de acesso https://jogodoacerto-five.vercel.app/
  
  # jogodoacerto
